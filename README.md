@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danochkaa
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning UX/UI engineering
+- 🌱 I’m currently learning Data Science
 - 📫 You can text me by my email danaauganbekova@gmail.com
 
 <!---
